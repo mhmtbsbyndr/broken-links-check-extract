@@ -1,4 +1,4 @@
-# broken-links-check-extract
+404 Not Found - broken-links-check-extract
 Find and extract all 404 not found links of a website
 
 # Requirements
